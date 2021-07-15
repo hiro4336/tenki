@@ -5,20 +5,16 @@ import tkinter as tk
 import tkinter.ttk as ttk
 from tkinter import messagebox
 from tkinter import filedialog
-
 import sqlite3
 import pandas as pd
-
 import datetime
 import os
 import csv
 import sys
-
 import matplotlib.pyplot as plt
 import japanize_matplotlib
 
 """
-
 できあがったDBデータを出力、・CSV出力、・matplot.table/jpg
 """
 # ====================================================================================================
